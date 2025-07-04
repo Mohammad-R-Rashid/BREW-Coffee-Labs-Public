@@ -553,8 +553,7 @@ npm run type-check
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
+We welcome contributions!
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
@@ -563,7 +562,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed. See the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
